@@ -72,7 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Plugins/
-Content/Realistic_Starter_VFX_Pack_Vol2/
-Content/WaterPlane/
-Content/Interface_And_Item_Sounds/
